@@ -1,0 +1,22 @@
+{
+  "name": "express-routing",
+  "version": "1.0.0",
+  "description": "Express.js application that performs three statistical operations given an arbitrary amount of numbers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdarling96/Express-routing-excercise.git"
+  },
+  "author": "jdarling96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdarling96/Express-routing-excercise/issues"
+  },
+  "homepage": "https://github.com/jdarling96/Express-routing-excercise#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
