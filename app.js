@@ -30,6 +30,10 @@ app.get("/mean", (req, res, next) => {
 app.get('/median', (req, res, next) => {
     
 })
+
+app.get('/mode', (req, res, next) => {
+    
+})
 app.use((error, req, res, next) => {
   let status = error.status || 500;
   let message = error.msg;
